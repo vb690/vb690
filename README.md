@@ -6,6 +6,10 @@
   <a href="https://vb690.github.io/what_do_books_look_like/" title="Where this banner comes from">Where this banner comes from</a>
 </p>
 
+## PhD Projects
+* [Modelling Early User-Game Interactions for Joint Estimation of Survival Time and Churn Probability](https://github.com/vb690/churn_survival_joint_estimation)  
+* [From Theory To Behaviour: Towards a General Model of Engagement](https://github.com/vb690/modelling_engagement_ammount)
+
 ## Workshops 
 * [Introductory Data Visualization with Matplotlib and Seaborn](https://github.com/vb690/data_viz_python) 
 * [Detect Statistical Oddities in Published Research: Practical and Theoretical Tools](https://github.com/ozvar/research_workshop)
