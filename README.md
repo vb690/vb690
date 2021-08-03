@@ -9,6 +9,7 @@
 ## PhD Projects
 * [Modelling Early User-Game Interactions for Joint Estimation of Survival Time and Churn Probability](https://github.com/vb690/churn_survival_joint_estimation)  
 * [From Theory To Behaviour: Towards a General Model of Engagement](https://github.com/vb690/modelling_engagement_ammount)
+* [Approximating Attributed Incentive Salience In Large Scale Scenarios: A Representation Learning Approach Based on Artificial Neural Networks](https://github.com/vb690/approx_incentive_salience)
 
 ## Workshops 
 * [Introductory Data Visualization with Matplotlib and Seaborn](https://github.com/vb690/data_viz_python) 
