@@ -16,6 +16,11 @@
 * [Detect Statistical Oddities in Published Research: Practical and Theoretical Tools](https://github.com/ozvar/research_workshop)
 * [Bayesian Data Analysis: an Introductory Workshop](https://github.com/vb690/introduction_bayesian_analysis)
 
+## Bayesian Statistics
+* [Collection of small projects leveraging bayesian statistics](https://github.com/vb690/bazaar)
+* [Bayesian Artificial Neural Networks](https://github.com/vb690/bayesian_ANN)
+* [Learning Bayes](https://github.com/vb690/learning_bayes)
+
 ## NLP Related Projects 
 * [Estimate and cluster sentiment in tweets](https://github.com/vb690/tweets_clustering)
 * [Generating Academic-Sound Papers Titles](https://github.com/vb690/academic_papers_bot)
